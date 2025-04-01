@@ -10,5 +10,8 @@ elif hour<18:
     print(greeting2)
 else: 
     print(greeting3)
+    
+    print(f'now is {hour}')
+    
        
 
