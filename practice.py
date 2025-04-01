@@ -11,7 +11,7 @@ elif hour<18:
 else: 
     print(greeting3)
     
-    print(f'now is {hour}')
+print(f'now is {hour}')
     
        
 
